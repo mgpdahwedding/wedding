@@ -1,0 +1,91 @@
+.courier-prime-regular {
+    font-family: "Courier Prime", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .courier-prime-bold {
+    font-family: "Courier Prime", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .courier-prime-regular-italic {
+    font-family: "Courier Prime", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .courier-prime-bold-italic {
+    font-family: "Courier Prime", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+
+  .league-spartan-regular {
+    font-family: "League Spartan", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .league-spartan-bold {
+    font-family: "League Spartan", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .league-spartan-regular-italic {
+    font-family: "League Spartan", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .league-spartan-bold-italic {
+    font-family: "League Spartan", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  .bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bebas-neue-bold {
+    font-family: "Bebas Neue", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .bebas-neue-regular-italic {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .bebas-neue-bold-italic {
+    font-family: "Bebas Neue", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+
+
+  .card-cover {
+    object-fit: cover;
+    width: 100%;
+  }
+
+h1 {
+  font-family: "League Spartan", serif;
+  color: blue;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vh;
+  object-fit: cover;
+}
